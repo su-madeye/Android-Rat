@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311281332812",
+    "firebase_url": "https://android-rat-86016.firebaseio.com",
+    "project_id": "android-rat-86016",
+    "storage_bucket": "android-rat-86016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311281332812:android:3b15531f9494e163383ae9",
+        "android_client_info": {
+          "package_name": "com.awesome_company.androidrat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311281332812-2k8f4qh4n3pv4r5ja6pb48pokg3inenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQKZf--WZDxluCsqFh3HmVxSMo78f8Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311281332812-2k8f4qh4n3pv4r5ja6pb48pokg3inenj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
